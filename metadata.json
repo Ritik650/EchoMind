@@ -1,0 +1,7 @@
+{
+  "name": "EchoMind: Your AI Cognitive Co-Pilot",
+  "description": "An AI-powered cognitive co-pilot designed for active self-awareness. It listens, understands your emotional patterns, and provides a personalized toolkit for mental well-being.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
